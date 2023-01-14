@@ -22,9 +22,6 @@ In this architecture, we use a REST API to place a database entry in the Amazon 
 * AWS SNS 
 * AWS IAM
 
-These services were deployed to eu-central-1 Frankfurt Region and they spans three Availability Zones, making it highly available.
-
-
 ### License
 
 [MIT](https://opensource.org/licenses/MIT)
